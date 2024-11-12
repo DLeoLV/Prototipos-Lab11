@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8dfe81fc13653a4dad384723aa0d6e6, type: 3}
+  m_Name: Particula1
+  m_EditorClassIdentifier: 
+  velocity: {x: 5, y: 10}
+  image: {fileID: 2800000, guid: bbfcac9d33969ab4bb46e2bc2e58080e, type: 3}
